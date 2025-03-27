@@ -1,16 +1,50 @@
-## Hi there 👋
+# Sirapop Somtad
 
-<!--
-**Sirapop01/Sirapop01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sirapop — a Computer Engineering student at Kasetsart University, Sriracha Campus.  
+I enjoy building full-stack applications and learning about scalable system design.  
+I work mostly with JavaScript, Node.js, and React, with experience in both frontend and backend development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🏫 Computer Engineering, KU Sriracha
+- 🌐 Interested in Web Development, Backend Systems, and DevOps fundamentals
+- 📈 Always learning and improving my skills through real-world projects
+
+---
+
+## Skills
+
+- **Languages**: JavaScript, Java, Python, C, HTML, CSS
+- **Frontend**: React.js, Axios, Tailwind CSS, MUI
+- **Backend**: Node.js, Express.js, MongoDB, JWT
+- **Tools**: Git, GitHub, Postman, VS Code, MongoDB Compass
+
+---
+
+## My Projects
+
+### [Booking System](https://github.com/Sirapop01/Booking)
+- **Description**: A full-featured stadium booking platform with authentication, real-time chat, payment confirmation, owner/admin dashboards, and financial ledgers.
+- **Technologies**: React.js, Node.js, Express.js, MongoDB, Socket.io
+
+### [ShirtStore](https://github.com/Sirapop01/ShirtStore)
+- **Description**: A basic online shirt showcase website with product listing and detail view. Products are added manually via database.
+- **Technologies**: React.js, Node.js, Express.js, MongoDB
+
+### [CRUD_APP](https://github.com/Sirapop01/CRUD_APP)
+- **Description**: A simple CRUD application using vanilla JavaScript for managing basic items.
+- **Technologies**: JavaScript, HTML, CSS
+
+### [auth-web](https://github.com/Sirapop01/auth-web)
+- **Description**: A Next.js-based authentication app with registration and login functionality, styled with Tailwind CSS.
+- **Technologies**: Next.js, Tailwind CSS, JavaScript
+
+---
+
+## Contact
+
+- **Email**: sirapop.sorn@ku.th 
+- **GitHub**: [Sirapop01](https://github.com/Sirapop01)
+- **Location**: Bangkok, Thailand
