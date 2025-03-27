@@ -33,14 +33,6 @@ I work mostly with JavaScript, Node.js, and React, with experience in both front
 - **Description**: A basic online shirt showcase website with product listing and detail view. Products are added manually via database.
 - **Technologies**: React.js, Node.js, Express.js, MongoDB
 
-### [CRUD_APP](https://github.com/Sirapop01/CRUD_APP)
-- **Description**: A simple CRUD application using vanilla JavaScript for managing basic items.
-- **Technologies**: JavaScript, HTML, CSS
-
-### [auth-web](https://github.com/Sirapop01/auth-web)
-- **Description**: A Next.js-based authentication app with registration and login functionality, styled with Tailwind CSS.
-- **Technologies**: Next.js, Tailwind CSS, JavaScript
-
 ---
 
 ## Contact
